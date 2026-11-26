@@ -1,0 +1,6 @@
+{
+  "name": "SULTANS Salon — Sheikhupura",
+  "description": "Premier hair styling, global color, PRP and laser scalp therapy, skincare, and grooming studio opposite Stadium Road, Sheikhupura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
